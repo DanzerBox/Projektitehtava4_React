@@ -29,4 +29,4 @@ npm start
 Asennuksen jälkeen voit avata sovelluksen: `` http://localhost:3000 ``
 
 
-Muista jos halaut mongoose toimimaan joudut määrittämään sen mongodb sivustolla
+Muista jos haluat mongoose toimimaan joudut määrittämään sen mongodb sivustolla
